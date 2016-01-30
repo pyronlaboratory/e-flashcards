@@ -1,0 +1,23 @@
+package com.persistent.training.serialization;
+
+public class Question {
+	
+	static String question;
+
+	public static String getText() {
+		System.out.println(question);
+		return question;
+	}
+
+	public static void setText(String question) {
+		
+		
+	}
+
+	public static void requestFocus() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+}
